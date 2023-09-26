@@ -2,6 +2,8 @@
 ​
 This is a small Vue project scaled-down from the capstone starter code. The back-end has been removed so we can focus on styling on the front-end.
 
+📝 Note: Unless otherwise specified, you should avoid changing the HTML to implement the styles described in these exercises.
+
 <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" height="200" width="auto" alt="Cartoon character fiddling with window blinds">
 <sub>( This GIF is in jest... I actually ❤️ CSS! )</sub>
 
@@ -132,9 +134,11 @@ Our flow-around text and image look great on desktop now, but once we hit smalle
 
 Need more style time? Try dressing up the About Us page!
 
+📝 Note: For this exercise, you can change the HTML to make it easier to style.
+
 Suggestions:
 - Add a cover picture to the empty div at the top of the page. (You can use lighthouse.jpg or choose a free picture from [Pixabay](https://pixabay.com/).)
-- Change all the pictures into circles.
+- Change all the pictures into circles and give them borders.
 - Style the "Our Team" section so that all of the team members are evenly-spaced in a row with their names beneath them.
 - Write a media query to make the "Our Team" section go vertical when a user is on a smaller device.
 
